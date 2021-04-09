@@ -8,4 +8,4 @@ E sempre fui apaixonado por tecnologia (o menino que conserta os celulares da fa
 
 👨🏻‍💻 Atualmete estudo JavaScrit, ReactJs e React Native, e cada dia que passa descubro coisas que me deixam mais encantado por esse mundo da programação, percebo que ainda tenho muito a aprender
 
-### 🌍Como Sócrates disse "Só sei que nada sei..."🧠
+### 🌍 Como Sócrates disse "Só sei que nada sei..."🧠
