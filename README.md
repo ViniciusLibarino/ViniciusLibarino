@@ -9,6 +9,3 @@ E sempre fui apaixonado por tecnologia (o menino que conserta os celulares da fa
 👨🏻‍💻 Atualmete estudo JavaScrit, ReactJs e React Native, e cada dia que passa descubro coisas que me deixam mais encantado por esse mundo da programação, percebo que ainda tenho muito a aprender
 
 🌍### Como Sócrates disse "Só sei que nada sei..."🧠
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos Vinícius Libarino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/marcos-vin%C3%ADcius-libarino-120a391a9/)]
