@@ -11,4 +11,4 @@ E sempre fui apaixonado por tecnologia (o menino que conserta os celulares da fa
 🌍### Como Sócrates disse "Só sei que nada sei..."🧠
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/marcos-vin%C3%ADcius-libarino-120a391a9/)](www.linkedin.com/in/marcos-vinícius-libarino)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos Vinícius Libarino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/marcos-vin%C3%ADcius-libarino-120a391a9/)]
