@@ -14,7 +14,7 @@ Meu nome é Marcos Vinícius, sou brasileiro 🇧🇷 de São Paulo-SP 📍
 
 E sempre fui apaixonado por tecnologia (o menino que conserta os celulares da família  né hahaha), depois de um tempo decidi que iria estudar e me dedicar totalmente para trabalhar com aquilo que amo, e estou nesse processo...
 
-👨🏻‍💻 Atualmete estudo JavaScrit com o foco no desenvolvimento de aplicativos moveis usando ReactNative, a cada dia que passa descubro coisas que me deixam mais encantado por esse mundo da programação, percebo que ainda tenho muito a aprender
+👨🏻‍💻 Atualmente estudo JavaScrit com o foco no desenvolvimento de aplicativos moveis usando React-Native, a cada dia que passa descubro coisas que me deixam mais encantado por esse mundo da programação, percebo que ainda tenho muito a aprender
 
 ## Técnologias que uso:
 
