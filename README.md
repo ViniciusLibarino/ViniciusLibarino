@@ -8,9 +8,9 @@ Meu nome é Marcos Vinícius, sou brasileiro 🇧🇷 de São Paulo-SP 📍
 
 <a href="https://github.com/ViniciusLibarino">
   <img align="left" alt="Joabson's Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
-</a>
+</a> <br>
 
-💻 Mobile Developer
+## 📱Mobile Developer
 
 E sempre fui apaixonado por tecnologia (o menino que conserta os celulares da família  né hahaha), depois de um tempo decidi que iria estudar e me dedicar totalmente para trabalhar com aquilo que amo, e estou nesse processo...
 
