@@ -1,14 +1,12 @@
 # Eaii!!🖖🏽
 
 Meu nome é Marcos Vinícius, sou brasileiro 🇧🇷 de São Paulo-SP 📍
-<!-- 
-<a href="https://www.linkedin.com/in/marcos-libarino/">
-  <img align="left" alt="Joabson's Linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-</a>
 
-<a href="https://github.com/ViniciusLibarino">
-  <img align="left" alt="Joabson's Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
-</a> <br> -->
+<a href="https://www.linkedin.com/in/marcos-libarino/">
+  <span>LinkeIn</span>
+  <img align="center" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" />
+</a>
+</br>
 
 ## 📱Mobile Developer
 
